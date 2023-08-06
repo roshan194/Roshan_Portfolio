@@ -71,7 +71,8 @@
   opacity: 0.9 !important;
 }
 .logo{
-  background-image: url(../Assets/logor.png);
+  /* background-image: url(../Assets/logor.png); */
+  background-image: url(../Assets/R_logo.png);
   background-size: cover;
   width: 90px;
   height: 80px;
@@ -145,6 +146,7 @@
     #ffcc70 100%
   );
 }
+
 .row {
   padding-top: 80px;
 }
@@ -323,9 +325,9 @@
   color: #e8e8e8;
 }
 .webimage {
-  max-width: 500px;
-  height: 350px;
-  background-image: url(../Assets/web-removebg-preview.png);
+  max-width: 5000px;
+  height: 500px;
+  background-image: url(../Assets/about.jpg);
   background-size: cover;
   background-position: center;
 }

@@ -59,7 +59,7 @@ html {
   border-radius: 12px;
 }
 
-.cursor {
+/* .cursor {
   background-color: #191919;
   opacity: 0.6;
   height: 18px;
@@ -68,7 +68,12 @@ html {
   position: fixed;
   top: 0;
   left: 0;
+} */
+
+* {
+  cursor: auto !important;
 }
+
 
 @media (max-width: 767px) {
   .cursor{

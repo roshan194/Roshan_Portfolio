@@ -2,12 +2,12 @@ import React from 'react'
 import '../../pages/style.css';
 import ProjectCard from "./ProjectCard";
 import { Container, Row, Col } from 'react-bootstrap'
-import useradminpanel from '../../Assets/Admin-Panel-Dashboard.png'
-import olximage from '../../Assets/olx-clone image.png'
-import netfliximage from '../../Assets/React-App-netflix-clone.png'
-import gridlinesbuilders from '../../Assets/Gridlinesbuilders.png'
-import charlespizza from '../../Assets/Charlestown-Pizza.png'
-import todolist from '../../Assets/todolist.png'
+import useradminpanel from '../../Assets/Amazon_clone.png'
+import olximage from '../../Assets/Keeper_app.png'
+import netfliximage from '../../Assets/Discord_clone.png'
+import gridlinesbuilders from '../../Assets/Drumkit.png'
+import charlespizza from '../../Assets/Weather_App.png'
+import todolist from '../../Assets/ss1.png'
 
 function Projectlist() {
   return (
@@ -19,9 +19,9 @@ function Projectlist() {
               <ProjectCard
                 imgPath={useradminpanel}
                 isBlog={false}
-                title="Dashboard Panel"
-                description="User Admin Dashboard created with React js, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid to build this entire application. This application consists of Light and Dark Mode, four different Charts, three different Data Table Pages, FAQ Page, Form Page, and Calendar Integration."
-                ghLink="https://rahul-dashboard-pannel.netlify.app"
+                title="EasyShop"
+                description="Developed an Amazon-inspired web app using ReactJS, HTML, CSS, and React Context API. Integrated Firebase for authentication, database, functions, and hosting. Enabled secure user registration, login, and personalized features. Utilized Firebase Realtime Database for seamless product browsing and achieved notable performance improvements."
+                ghLink=""
               />
             </Col>
 
@@ -29,9 +29,9 @@ function Projectlist() {
               <ProjectCard
                 imgPath={olximage}
                 isBlog={false}
-                title="Olx-Clone"
-                description="Olx-clone builds with react js. using firebase as a backend and deploying in firebase. Olx-Clone is a potential classified advertisement website that categorizes objects in a user-friendly manner & displays them as advertisements.. Classifieds can be posted that involve selling, and buying using React-router, context, react hooks."
-                ghLink="https://olx-clone-rahul.netlify.app/"
+                title="NoteTrack"
+                description="A Simplified Task and Note Management App.With an intuitive user interface, users can easily manage tasks and notes. Stay organized and on top of daily activities with this streamlined and powerful tool. Simplify task and note management with NoteTrack."
+                ghLink=""
               />
             </Col>
 
@@ -39,9 +39,9 @@ function Projectlist() {
               <ProjectCard
                 imgPath={netfliximage}
                 isBlog={false}
-                title="Netflix-Clone"
-                description="This project is a simplified front-end clone of Netflix. It was created with React js. It uses TMDB (The Movie Data Base ) API and uses the Axios tool. Users can click movie images with embedded YouTube trailers or related videos about the movie."
-                ghLink="https://react-rahul-netflix-clone.netlify.app/"
+                title="Chatify"
+                description="Chatify, a modern chat app built on ReactJS, Redux, and Firebase, offers a visually appealing and user-friendly interface with HTML and CSS. With Firebase Hosting, it ensures effortless deployment and real-time communication. Stay connected with friends, family, or colleagues hassle-free on Chatify."
+                ghLink=""
               />
             </Col>
 
@@ -49,9 +49,9 @@ function Projectlist() {
               <ProjectCard
                 imgPath={gridlinesbuilders}
                 isBlog={false}
-                title="Grid Line Builders"
-                description="Grid line builders is a static webpage built with HTML, CSS, and JavaScript. Users can see images of their work and contact information that helps to connect the home builders through a webpage. webpage builds responsive to multiple sizes of devices."
-                ghLink="https://gridlinesbuilders.in/"
+                title="Drumkit"
+                description="Drumkit is an interactive web application that simulates a drum kit, allowing users to play drums using both mouse clicks and keyboard keys. With a fun and intuitive interface, users can unleash their musical creativity and rhythm, making it an enjoyable and engaging drumming experience."
+                ghLink=""
               />
             </Col>
 
@@ -59,9 +59,9 @@ function Projectlist() {
               <ProjectCard
                 imgPath={charlespizza}
                 isBlog={false}
-                title="Charlestown Pizza"
-                description="Charlestown pizza is a static website completely build with bootstrap with fully responsive."
-                ghLink="https://rahulvijay81.github.io/Pizzastore-bootstrap/"
+                title="WeatherApp"
+                description="WeatherApp is a web application leveraging the OpenWeather MAP API. Powered by a team of data scientists and IT experts, it offers historical, current, and forecasted weather data globally. Users can access real-time weather information with light-speed APIs, making it a reliable source for weather updates."
+                ghLink=""
               />
             </Col>
 
@@ -69,9 +69,9 @@ function Projectlist() {
               <ProjectCard
                 imgPath={todolist}
                 isBlog={false}
-                title="To Do List"
-                description=" To-Do App that build will allow a user to add a task to a list of to-do items. Once the task is added, the user will be able to delete it as completed once it has done."
-                ghLink="https://todolist-rahul81.netlify.app/"
+                title="Blog App"
+                description="The Blog Application allows users to create, edit, and delete blogs while also viewing and making changes to other blogs. Utilizing LocalStorage, the app ensures data persistence, allowing users to access their blogs even after closing the browser, ensuring a seamless and convenient blogging experience."
+                ghLink=""
 
               />
             </Col>

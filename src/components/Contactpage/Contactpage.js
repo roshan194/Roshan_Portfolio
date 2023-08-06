@@ -11,14 +11,14 @@ function Contactpage() {
         <button
           className='contactbtn'
           onClick={() => {
-            window.open("https://wa.me/+918156811884");
+            window.open("https://wa.me/+919661731796");
           }}
         >Say Hello</button>
         <span></span>
         <hr className='line' />
         <p className='copyright'>© Copyright 2023.
         <br /> 
-        Designed & Built by <span>rahulvijay</span></p>
+        Designed & Built by <span>roshan</span></p>
       </Container>
     </div>
   )
