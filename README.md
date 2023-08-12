@@ -1,5 +1,5 @@
 # Personal Portfolio
-This is a personal portfolio website built with React.js and Bootstrap, utilizing React Router v6 to enable easy access to multiple pages. The website was designed and created entirely by Rahul Vijay, showcasing his skills and projects.
+This is a personal portfolio website built with React.js and Bootstrap, utilizing React Router v6 to enable easy access to multiple pages. The website was designed and created entirely by Roshan Kumar, showcasing his skills and projects.
 
 
 
