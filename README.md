@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Features
 
-Multiple Pages (React Router): The website has multiple pages to showcase various aspects of Rahul's skills and projects.
+Multiple Pages (React Router): The website has multiple pages to showcase various aspects of Roshan's skills and projects.
 
 Fully Responsive: The website is fully responsive and works well on all devices.
 
